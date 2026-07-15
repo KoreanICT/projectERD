@@ -1,0 +1,9 @@
+*.lck 
+*.log 
+*.tmp 
+*.bak
+*.bak_*
+*.vpp.bak
+*.lck
+*.log
+*.tmp
